@@ -11,8 +11,14 @@
 | 4.4in OD MXL Series Timing Belt  | 4 | $8.37 | https://www.mcmaster.com/7887K13/ |
 | 5.6in OD MXL Series Timing Belt  | 4 | $11.60 | https://www.mcmaster.com/7887K15/ |
 | <h3>Fasteners</h3> | | |
-| 4-40 x 1.25"  | 4 | | |
-| 4-40 x .75"  | 4 | | |
+| 4-40 x 1.25" Countersunk | 4 | | |
+| 4-40 x .75" Countersunk | 12 | | |
+| 4-40 x .50" Coutnersunk | 16 | | |
+| 4-40 x .375" Coutnersunk | 8 | | |
+| 4-40 Locknut | 24 | | |
+| 4-40 Hex Nut | 16 | | |
+| M2.5 x 16mm | 8 | | |
+| M2.5 Washer | 8 | | |
 | <h3>3D Printed Parts</h3> | | | |
 | Base | 1 | | |
 | Electronics Mount | 1 | | |
