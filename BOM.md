@@ -1,4 +1,4 @@
-<h1>3D Printed Parts List</h1>
+<h1>Master BOM</h1>
 
 | Part              | Quantity per Robot        |  Price                   | Link
 | ----------------- | :-----------------------: |------------------------- | -------------- |
