@@ -7,6 +7,9 @@
 | OpenCM9.04-C (with onboard XL-type connectors) | 1 | $19.90 | http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/ |
 | Li-ion Battery Charger Set LBB-041 | 2 | $15.80 | http://www.robotis.us/li-ion-battery-charger-set-lbb-041/ |
 | Li-ion Battery 3.7V 1300mAh LB-041 | 2 | $19.80 | http://www.robotis.us/li-ion-battery-3-7v-1300mah-lb-041/ |
+| <h3>McMaster-Carr Parts</h3> | | |
+| 4.4in OD MXL Series Timing Belt  | 4 | $8.37 | https://www.mcmaster.com/7887K13/ |
+| 5.6in OD MXL Series Timing Belt  | 4 | $11.60 | https://www.mcmaster.com/7887K15/ |
 | <h3>3D Printed Parts</h3> | | | |
 | Base | 1 | | |
 | Electronics Mount | 1 | | |
