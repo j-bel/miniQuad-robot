@@ -20,17 +20,18 @@
 | M2.5 x 16mm | 8 | | |
 | M2.5 Washer | 8 | | |
 | <h3>3D Printed Parts</h3> | | | |
-| Base | 1 | | |
-| Electronics Mount | 1 | | |
+| Part | Filament per (g) | Qty | Filament Total |
+| Base | 33.20 | 1 | 33.20 |
+| Electronics Mount | 71.33 | 1 | 71.33 |
 | Foot | 4 | | |
-| Hip Pulley | 4 | | |
-| Hip Pulley Brace | 4 | | |
-| Knee Pulley | 4 | | |
-| Leg | 4 | | |
-| Leg Cover | 4 | | |
-| Motor Hub | 4 | | |
-| Motor Hub to Knee Pulley | 4 | | |
-| Thigh | 4 | | |
-| Thigh Cover | 4 | | |
-| XL320 Motor Mounts | 2 | | |
-
+| Hip Pulley | 5.00 | 4 | 20.00 |
+| Hip Pulley Brace | 5.78 | 4 | 23.12 |
+| Knee Pulley | .54 | 4 | 2.16 |
+| Leg | 1.96 | 4 | 7.84 |
+| Leg Cover | 2.25 | 4 | 7.84 |
+| Motor Hub | 3.75 | 4 | 15.00 |
+| Motor Hub Connector | 3.35 | 4 | 13.40 |
+| Thigh | 7.86 | 4 | 31.44 |
+| Thigh Cover | 3.48 | 4 | 13.92 |
+| XL320 Motor Mounts | 35.94 | 2 | 71.88 |
+| Printing Total | | | 312.29 |
