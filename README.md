@@ -27,7 +27,7 @@ The Parts List and Links to order all off the shelf parts can be found in the [M
 
 MiniQuad's stability was evaluated for both the walking and running gait by observing inertial measurement unit (IMU) readings for roll and pitch and their derivatives as the robot traversed over a straight, 1 meter long flat course. This data was recorded for four different configurations for both walking and running each with 2 different leg trajectories as shown in the image. 
 
-![Centered]()
+![Centered](https://user-images.githubusercontent.com/69541527/90566340-4d731680-e176-11ea-941c-d3ad530c5048.PNG)
 ![Offset]()
 
 For each experiment,five trials were conducted over eight different configuration-trajectory combinations.
