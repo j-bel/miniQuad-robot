@@ -1,6 +1,6 @@
 <h1>A Mini Quadrupedal Robot</h1>
 CAD Files, Assembly Instruction, and Software Tutorials for a Miniature Quadrupedal Robot.  
-
+<br>
 MiniQuad is a miniature quadruped robot capable of achieving four different leg joint configurations. It was created in order to test the impact of these different configurations on the quadruped's stability when it moves over a flat surface. The robot's body parts have been entirely 3D printed, allowing the robot to be extremely light weight. MiniQuad helps determine the viability of quadruped robots for different robotics research initiatives, as opposed to more traditional, wheeled robots, at a much lower cost.
 
 ## Design
