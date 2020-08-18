@@ -22,5 +22,16 @@ Building a ROBOTNAME requires access to a 3D printer, a screw drive, and a pair 
 The Parts List and Links to order all off the shelf parts can be found in the [Master BOM](https://github.com/MiniQuad/robot/blob/master/Master%20BOM.md). All of the STL files for 3D printed parts can be found in [STL Files](https://github.com/MiniQuad/robot/tree/master/STL%20Files)
 
 ## Experiments
-We evaluated MiniQuad's stability for both the walking and running gait by observing inertial measurement unit (IMU) readings for roll and pitch and their derivatives as the robot traversed over a straight, 1 meter long flat course. This data was recorded for four different configurations for both walking and running each with 2 different leg trajectories. For each experiment,five trials were conducted over eight different configuration-trajectory combinations.
+
+![The four different leg joint configurations](https://user-images.githubusercontent.com/69541527/90563998-9cb74800-e172-11ea-97aa-886bd5febded.JPG)
+
+MiniQuad's stability was evaluated for both the walking and running gait by observing inertial measurement unit (IMU) readings for roll and pitch and their derivatives as the robot traversed over a straight, 1 meter long flat course. This data was recorded for four different configurations for both walking and running each with 2 different leg trajectories as shown in the image. 
+
+![Centered]()
+![Offset]()
+
+For each experiment,five trials were conducted over eight different configuration-trajectory combinations.
 The IMU readings for roll and pitch and their derivatives were stored in text files written to an SD card during the experiments. As this data was noisy and also contained readings before and after the duration of the experiment, data preprocessing was required before extracting useful information from it. The data from the text file was extracted and clipped to include the portion relevant to the experiment using MATLAB. As we were interested in observing the rate at which the roll and pitch changed, we initially plotted the derivatives and observed that the curve was similar to an oscillation. The average amplitude of the oscillation was found for each trial and averaged over all trials on a specific joint configuration and gait to obtain the average rate at which it changed for that leg configuration and gait in order to assess the stability of the robot’s body.
+
+### Observations
+It was observed that the least rate of change in roll and pitch values for the walking gait was for configuration (b) and configuration (c) for the running gait suggesting that these could be the most stable leg configurations. However, these configurations were unable to produce gait when there leg trajectories were changed and hence it could not be concluded if these were the most stable. Configuration (d) was the only one to have produced gait for all trajectories and was also the most unstable.
