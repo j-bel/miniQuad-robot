@@ -10,7 +10,7 @@ While the parts are printing, follow the steps to download the [OpenCM IDE](http
 
 ### Assign Motor ID's
 
-Download and open [XL320_SetID](www.google.com) in the OpenCM IDE. Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). Plug the OpenCM9.04 into a USB Port on your computer. Plug one of the [XL-320](http://www.robotis.us/dynamixel-xl-320/) Motors into the OpenCM9.04 using the 3 wire cable that comes with it. 
+Download and open [XL320_SetID](www.google.com) in the OpenCM IDE. Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). Plug the OpenCM9.04 into a USB Port on your computer. Plug one of the [XL-320](http://www.robotis.us/dynamixel-xl-320/) Motors into the OpenCM9.04 using the 3 wire cable that comes with it. For this step, make sure only one motor is plugged in at a time! Flip the switch on the OpenCM9.04 near the batteries to the on position. If you are unsure which way is the on position, you can unplug the OpenCM9.04 from your computer. The red light will remain on when unplugged if the switch is in the correct position. Edit the code so that the number in the red box pictured blow is the current motor you are assigning. Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
 
 
 ![SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
