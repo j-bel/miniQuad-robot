@@ -10,7 +10,7 @@ While the parts are printing, follow the steps to download the [OpenCM IDE](http
 
 ### Assign Motor ID's
 
-Download and open [XL320_SetID](www.google.com) in the OpenCM IDE. 
+Download and open [XL320_SetID](https://github.com/MiniQuad/robot/blob/master/Assembly%20Code/XL320_SetID.ino) in the OpenCM IDE. 
 
 Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). 
 
@@ -38,7 +38,7 @@ Lay the motors out in the orientation in the image below.
 
 ![MotorLayoutIMG](https://user-images.githubusercontent.com/69541527/90822012-c5ba1300-e301-11ea-9b9b-53b30e44ea6b.PNG)
 
-Connect Motor 1 to 2, 3 to 4, 5 to 6, and 7 to 8 with one of the supplied cables using inner terminals between each respective set of motors. Connect a second cable to the other terminals of motors 2, 3, 6, and 7. These terminals will be closest to the center of motor layout. Leave one end of the cable unnattached. This will be used to connect to the controller later.
+Connect Motor 1 to 2, 3 to 4, 5 to 6, and 7 to 8 with one of the supplied cables using inner terminals between each respective set of motors. Connect a second cable to the other terminals of motors 2, 3, 6, and 7. These terminals will be closest to the center of motor layout pictured above. Leave one end of the cable unnattached. This will be used to connect to the controller later.
 
 Press a 4-40 Nut into each of the 4 holes on one of the XL320 Motor Mounts. 
 
