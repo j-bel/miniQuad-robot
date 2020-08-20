@@ -12,4 +12,4 @@ While the parts are printing, follow the steps to download the [OpenCM IDE](http
 
 Download and open [XL320_SetID](www.google.com) in the OpenCM IDE. Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). Plug the OpenCM9.04 into a USB Port on your computer. Plug one of the [XL-320](http://www.robotis.us/dynamixel-xl-320/) Motors into the OpenCM9.04 using the 3 wire cable that comes with it. 
 
-[SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
+[https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG]
