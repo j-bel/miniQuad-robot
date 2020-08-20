@@ -11,14 +11,13 @@ MiniQuad is a miniature quadruped robot capable of achieving four different leg 
 
 ### Assembly
 
-Building a MiniQuad requires access to a 3D printer, a screw drive, and a pair of pliers.
+Building a MiniQuad requires access to a 3D printer, a phillips head screw driver, and a pair of pliers.
 
 The Parts List and Links to order all off the shelf parts can be found in the [Master BOM](https://github.com/MiniQuad/robot/blob/master/Master%20BOM.md). 
 
 All of the STL files for 3D printed parts can be found in [STL Files](https://github.com/MiniQuad/robot/tree/master/STL%20Files)
 
-Detailed Assembly Instructions can be found in [Assembly Instruction]
-
+Detailed Assembly Instructions can be found in [Assembly Instructions](https://github.com/MiniQuad/robot/blob/master/Assembly%20Instructions.md)
 
 ### Design
 The main design goals were to allow multiple leg-joint configurations while minimizing the weight of the robot. In order to do this, we relocated the motors from the joints themselves. The motors on the robot are offset from the joints through the use of timing belts. The motors that control the robot’s knees are actually located at its hip joints, and the motors that control its hip joints are located near the center of the robot’s sides. Apart from using 3D printed components, mounting the actuators on the main body, helped reduce the weight of the legs. Condensing its overall size also helped minimize the robot weight while maximizing the capabilities of the actuators by enabling them to reach higher angular velocities and increasing the overall speed of the robot.
