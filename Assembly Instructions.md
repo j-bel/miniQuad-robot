@@ -44,6 +44,14 @@ Press a 4-40 Nut into each of the 4 holes on one of the XL320 Motor Mounts.
 
 ![BracketNuts](https://user-images.githubusercontent.com/69541527/90821004-3e1fd480-e300-11ea-915f-31e094a18ab7.PNG)
 
-Slide Motors 1-4 into the bracket as shows below.
+Slide Motors 1-4 into the bracket as shown below.
 
 ![MotorIntoBracketIMG](https://user-images.githubusercontent.com/69541527/90833378-e3917300-e315-11ea-859f-60d8c88ed8b9.PNG)
+
+Repeat the previous 2 steps with motors 5-8. Note the Orientation and order of the motors when assembling.
+
+![MotorIntoBracket2IMG](https://user-images.githubusercontent.com/69541527/90835697-45a0a700-e31b-11ea-9495-9f1dae8f7489.PNG)
+
+Attach both of the motor brackets to the base plate using 8 4-40 x .50" screws with countersunk heads
+
+
