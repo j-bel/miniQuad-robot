@@ -29,4 +29,4 @@ The main design goals were to allow multiple leg-joint configurations while mini
 
 
 ## Experiments
-Details about the experiments conducted can be found here[]()
+Details about the experiments conducted can be found in [Experimentation](Experimentation.md)
