@@ -11,7 +11,7 @@ MiniQuad is a miniature quadruped robot capable of achieving four different leg 
 
 ### Assembly
 
-Building a ROBOTNAME requires access to a 3D printer, a screw drive, and a pair of pliers.
+Building a MiniQuad requires access to a 3D printer, a screw drive, and a pair of pliers.
 
 The Parts List and Links to order all off the shelf parts can be found in the [Master BOM](https://github.com/MiniQuad/robot/blob/master/Master%20BOM.md). 
 
