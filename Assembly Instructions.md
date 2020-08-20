@@ -44,4 +44,6 @@ Press a 4-40 Nut into each of the 4 holes on one of the XL320 Motor Mounts.
 
 ![BracketNuts](https://user-images.githubusercontent.com/69541527/90821004-3e1fd480-e300-11ea-915f-31e094a18ab7.PNG)
 
+Slide Motors 1-4 into the bracket as shows below.
 
+![MotorIntoBracketIMG](https://user-images.githubusercontent.com/69541527/90833378-e3917300-e315-11ea-859f-60d8c88ed8b9.PNG)
