@@ -22,7 +22,7 @@ Detailed Assembly Instructions can be found in [Assembly Instructions](https://g
 ### Design
 The main design goals were to allow multiple leg-joint configurations while minimizing the weight of the robot. In order to do this, we relocated the motors from the joints themselves. The motors on the robot are offset from the joints through the use of timing belts. The motors that control the robot’s knees are actually located at its hip joints, and the motors that control its hip joints are located near the center of the robot’s sides. Apart from using 3D printed components, mounting the actuators on the main body, helped reduce the weight of the legs. Condensing its overall size also helped minimize the robot weight while maximizing the capabilities of the actuators by enabling them to reach higher angular velocities and increasing the overall speed of the robot.
 
-[Exploded Leg View](https://user-images.githubusercontent.com/69541527/90536027-86e15d00-e149-11ea-98bc-41dbec4e5b82.PNG)
+![Exploded Leg View](https://user-images.githubusercontent.com/69541527/90536027-86e15d00-e149-11ea-98bc-41dbec4e5b82.PNG)
 
 ## Experiments
 Details about the experiments conducted can be found in [Experimentation](Experimentation.md)
