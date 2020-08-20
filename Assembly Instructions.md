@@ -26,7 +26,22 @@ Edit the code so that the number in the red box pictured blow is the current ID 
 
 Upload the code. If the motor begins to rotate back and forth, its ID has been successfully set.
 
+Label the Motor with its ID. This will be important for future assembling as well as programming the locomotion of MiniQuad
+
 Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
 
 ![SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
+
+### Main Body Assembly
+
+Lay the motors out in the orientation in the image below. 
+
+![MotorLayoutIMG](https://user-images.githubusercontent.com/69541527/90822012-c5ba1300-e301-11ea-9b9b-53b30e44ea6b.PNG)
+
+Connect Motor 1 to 2, 3 to 4, 5 to 6, and 7 to 8 with one of the supplied cables using inner terminals between each respective set of motors. Connect a second cable to the other terminals of motors 2, 3, 6, and 7. These terminals will be closest to the center of motor layout. Leave one end of the cable unnattached. This will be used to connect to the controller later.
+
+Press a 4-40 Nut into each of the 4 holes on one of the XL320 Motor Mounts. 
+
+![BracketNuts](https://user-images.githubusercontent.com/69541527/90821004-3e1fd480-e300-11ea-915f-31e094a18ab7.PNG)
+
 
