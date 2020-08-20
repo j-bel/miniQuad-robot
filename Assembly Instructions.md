@@ -7,3 +7,7 @@ Begin by gathering all of the necessary material to build MiniQuad found in the 
 ### Download OpenCM IDE
 
 While the parts are printing, follow the steps to download the [OpenCM IDE](https://emanual.robotis.com/docs/en/software/opencm_ide/getting_started/) from robotis. The OpenCM IDE will be necessary to run the initial set up code as well as program MiniQuad to move. 
+
+### Assign Motor ID's
+
+Download and open [XL320_SetID](www.google.com) in the OpenCM IDE. Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). Plug to OpenCM9.04 into a USB Port on your computer. Plug one of the [XL-320](http://www.robotis.us/dynamixel-xl-320/) Motors into the OpenCM9.04 using the 3 wire cable that comes with it.  
