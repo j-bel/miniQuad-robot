@@ -20,12 +20,13 @@ For this step, make sure only one motor is plugged in at a time!
 
 Plug the OpenCM9.04 into a USB Port on your computer.  
 
-Flip the switch on the OpenCM9.04 near the batteries to the on position. If you are unsure which way is the on position, you can unplug the OpenCM9.04 from your computer. The red light will remain on when unplugged if the switch is in the correct position. Edit the code so that the number in the red box pictured blow is the current motor you are assigning.
+Flip the switch on the OpenCM9.04 near the batteries to the on position. If you are unsure which way is the on position, you can unplug the OpenCM9.04 from your computer. The red light will remain on when unplugged if the switch is in the correct position. 
+
+Edit the code so that the number in the red box pictured blow is the current ID you are assigning.
 
 Upload the code. If the motor begins to rotate back and forth, its ID has been successfully set.
 
 Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
-
 
 ![SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
 
