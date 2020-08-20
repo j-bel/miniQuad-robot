@@ -52,6 +52,9 @@ Repeat the previous 2 steps with motors 5-8. Note the Orientation and order of t
 
 ![MotorIntoBracket2IMG](https://user-images.githubusercontent.com/69541527/90835697-45a0a700-e31b-11ea-9495-9f1dae8f7489.PNG)
 
-Attach both of the motor brackets to the base plate using 8 4-40 x .50" screws with countersunk heads
+Attach both of the motor brackets to the base plate using 4-40 x .50" screws with countersunk heads (x8).
 
+![BaseToBrackets](https://user-images.githubusercontent.com/69541527/90836069-6caba880-e31c-11ea-8b3c-84f774c28f34.PNG)
+
+Attach the OpenCM9.04 board to the Electronics Mount using 
 
