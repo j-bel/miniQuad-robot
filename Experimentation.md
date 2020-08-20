@@ -1,6 +1,6 @@
 ## Experiments
 
-![The four different leg joint configurations](https://user-images.githubusercontent.com/69541527/90563998-9cb74800-e172-11ea-97aa-886bd5febded.JPG)
+![The four different leg joint configurations](https://user-images.githubusercontent.com/69541527/90814555-4a536400-e2f7-11ea-8811-19adc9005cc0.jpg)
 
 MiniQuad's stability was evaluated for both the walking and running gait by observing inertial measurement unit (IMU) readings for roll and pitch and their derivatives as the robot traversed over a straight, 1 meter long flat course. This data was recorded for four different configurations for both walking and running each with 2 different leg trajectories as shown in the image. 
 
