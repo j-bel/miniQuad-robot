@@ -1,4 +1,4 @@
-# Mini Quad
+# MiniQuad
 ### A Mini Quadrupedal Robot
 CAD Files, Assembly Instruction, and Software Tutorials for a Miniature Quadrupedal Robot.  
 
