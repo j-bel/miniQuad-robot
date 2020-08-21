@@ -28,6 +28,7 @@ Upload the code. If the motor begins to rotate back and forth, its ID has been s
 
 Label the Motor with its ID. This will be important for future assembling as well as programming the locomotion of MiniQuad
 
+
 Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
 
 ![SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
@@ -59,6 +60,10 @@ Attach both of the motor brackets to the base plate using 4-40 x .50" screws wit
 Attach the OpenCM9.04 board to the Electronics Mount using 4-40 x .50" screws. These can be countersunk, but flatheads are preferred. Note: other screw lengths over .50" may work as well.
 
 ![OpenCMMount](https://user-images.githubusercontent.com/69541527/90846716-ce790c00-e336-11ea-8aad-c52c14e4fb0f.PNG)
+
+Attach the electronics mount to the assembly using 4-40 x .75" countersunk screws (x8) and 4-40 nuts (x8).
+
+![EMountDOwn](https://user-images.githubusercontent.com/69541527/90917793-906cfe00-e3b1-11ea-94a5-5595f5b3b206.PNG)
 
 After completing the above steps, the assembly should look as follows with the motor ID's corresponding to the numbers in the image below.
 
