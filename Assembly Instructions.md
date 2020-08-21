@@ -68,3 +68,7 @@ Attach the electronics mount to the assembly using 4-40 x .75" countersunk screw
 After completing the above steps, the assembly should look as follows with the motor ID's corresponding to the numbers in the image below.
 
 ![BaseAssembly](https://user-images.githubusercontent.com/69541527/90847205-003ea280-e338-11ea-9c59-1575a19c8854.PNG)
+
+### Leg Assembly
+
+![RemoveScrew](https://user-images.githubusercontent.com/69541527/90920506-6e29af00-e3b6-11ea-943d-a18cfbcd0f94.PNG)
