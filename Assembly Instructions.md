@@ -56,5 +56,10 @@ Attach both of the motor brackets to the base plate using 4-40 x .50" screws wit
 
 ![BaseToBrackets](https://user-images.githubusercontent.com/69541527/90836069-6caba880-e31c-11ea-8b3c-84f774c28f34.PNG)
 
-Attach the OpenCM9.04 board to the Electronics Mount using 
+Attach the OpenCM9.04 board to the Electronics Mount using 4-40 x .50" screws. These can be countersunk, but flatheads are preferred. Note: other screw lengths over .50" may work as well.
 
+![OpenCMMount](https://user-images.githubusercontent.com/69541527/90846716-ce790c00-e336-11ea-8aad-c52c14e4fb0f.PNG)
+
+After completing the above steps, the assembly should look as follows with the motor ID's corresponding to the numbers in the image below.
+
+![BaseAssembly](https://user-images.githubusercontent.com/69541527/90847205-003ea280-e338-11ea-9c59-1575a19c8854.PNG)
