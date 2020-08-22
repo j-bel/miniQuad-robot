@@ -31,43 +31,43 @@ Label the Motor with its ID. This will be important for future assembling as wel
 
 Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
 
-![SetID_NewID_IMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/1SetID_NewID_IMG.PNG)
+![1SetID_NewID_IMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/1SetID_NewID_IMG.PNG)
 
 ### Main Body Assembly
 
 Lay the motors out in the orientation in the image below. 
 
-![MotorLayoutIMG](https://user-images.githubusercontent.com/69541527/90822012-c5ba1300-e301-11ea-9b9b-53b30e44ea6b.PNG)
+![2MotorLayoutIMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/2MotorLayoutIMG.PNG)
 
 Connect Motor 1 to 2, 3 to 4, 5 to 6, and 7 to 8 with one of the supplied cables using inner terminals between each respective set of motors. Connect a second cable to the other terminals of motors 2, 3, 6, and 7. These terminals will be closest to the center of motor layout pictured above. Leave one end of the cable unnattached. This will be used to connect to the controller later.
 
 Press a 4-40 Nut into each of the 4 holes on one of the XL320 Motor Mounts. 
 
-![BracketNuts](https://user-images.githubusercontent.com/69541527/90821004-3e1fd480-e300-11ea-915f-31e094a18ab7.PNG)
+![3BracketNuts](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/3BracketNuts.PNG)
 
 Slide Motors 1-4 into the bracket as shown below.
 
-![MotorIntoBracketIMG](https://user-images.githubusercontent.com/69541527/90833378-e3917300-e315-11ea-859f-60d8c88ed8b9.PNG)
+![4MotorIntoBracketIMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/4MotorIntoBracketIMG.PNG)
 
 Repeat the previous 2 steps with motors 5-8. Note the Orientation and order of the motors when assembling.
 
-![MotorIntoBracket2IMG](https://user-images.githubusercontent.com/69541527/90835697-45a0a700-e31b-11ea-9495-9f1dae8f7489.PNG)
+![5MotorIntoBracket2IMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/5MotorIntoBracket2IMG.PNG)
 
 Attach both of the motor brackets to the base plate using 4-40 x .50" screws with countersunk heads (x8).
 
-![BaseToBrackets](https://user-images.githubusercontent.com/69541527/90836069-6caba880-e31c-11ea-8b3c-84f774c28f34.PNG)
+![6BaseToBrackets](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/6BaseToBrackets.PNG)
 
 Attach the OpenCM9.04 board to the Electronics Mount using 4-40 x .50" screws. These can be countersunk, but flatheads are preferred. Note: other screw lengths over .50" may work as well.
 
-![OpenCMMount](https://user-images.githubusercontent.com/69541527/90846716-ce790c00-e336-11ea-8aad-c52c14e4fb0f.PNG)
+![7OpenCMMount](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/7OpenCMMount.PNG)
 
 Attach the electronics mount to the assembly using 4-40 x .75" countersunk screws (x8) and 4-40 nuts (x8).
 
-![EMountDOwn](https://user-images.githubusercontent.com/69541527/90917793-906cfe00-e3b1-11ea-94a5-5595f5b3b206.PNG)
+![8EMountDOwn](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/8EMountAttach.PNG)
 
 After completing the above steps, the assembly should look as follows with the motor ID's corresponding to the numbers in the image below.
 
-![BaseAssembly](https://user-images.githubusercontent.com/69541527/90847205-003ea280-e338-11ea-9c59-1575a19c8854.PNG)
+![9BaseAssembly](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/9BaseAssembly.PNG)
 
 ### Leg Assembly
 
