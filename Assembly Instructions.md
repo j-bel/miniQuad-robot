@@ -73,3 +73,5 @@ After completing the above steps, the assembly should look as follows with the m
 
 Remove the screws from the XL-320 that hold the servo horn in place (circled below)
 ![RemoveScrew](https://user-images.githubusercontent.com/69541527/90920506-6e29af00-e3b6-11ea-943d-a18cfbcd0f94.PNG)
+
+
