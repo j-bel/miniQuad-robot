@@ -10,7 +10,7 @@ While the parts are printing, follow the steps to download the [OpenCM IDE](http
 
 ### Assign Motor ID's
 
-Download and open [XL320_SetID](https://github.com/MiniQuad/robot/blob/master/Assembly%20Code/XL320_SetID.ino) in the OpenCM IDE. 
+Download and open [XL320_SetID](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Code/XL320_SetID.ino) in the OpenCM IDE. 
 
 Plug 2 charged batteries into the [OpenCM9.04](http://www.robotis.us/opencm9-04-c-with-onboard-xl-type-connectors/). 
 
@@ -31,7 +31,7 @@ Label the Motor with its ID. This will be important for future assembling as wel
 
 Repeat this step for all 8 XL-320 Motors, assigning each motor with an ID of 1-8 without repeating any numbers. 
 
-![SetID_NewID_IMG](https://user-images.githubusercontent.com/69541527/90815533-d7e38380-e2f8-11ea-86dd-e6b72a63cba3.PNG)
+![SetID_NewID_IMG](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/1SetID_NewID_IMG.PNG)
 
 ### Main Body Assembly
 
