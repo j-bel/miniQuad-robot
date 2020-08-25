@@ -44,14 +44,26 @@ Attach the Knee Pulley to the assembly by sliding it into the hole on the front 
 
 ![9KneePulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/9KneePulley.PNG)
 
+Attach the Knee Cover to the Knee using a 4-40 x .5" countersunk screw and a 4-40 Locknut. Fasten the leg cover into place, but leave it loose enough for the Knee Cover to rotate around the axis of the screw.
+
 ![10KneeCover](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/10KneeCover.PNG)
 
-![11KneeBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/11KneeBelt.PNG)
+Rotate the Knee Cover to one side enough to allow the 4.4" Timing Belt onto the teeth of the Knee.
+
+![11KneeBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/11KneeBelt.PNG
+
+Rotate the Knee Cover Back into place. Place the timing belt around the Knee Pulley at the top of the leg assembly. Stretch the Knee and Knee Cover downwards and put a 4-40 x .75" countersunk screw into the back of the Knee. If the fit is too tight, you may need to twist the screw into place. Make sure the back face of the knee is pressing up against the face of the Thigh.
 
 ![12AttachKnee](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/12AttachKnee.PNG)
 
+Place the Thigh Cover onto the end of the 4-40 x .75" screw used in the previous step. Tighten it into place with a 4-40 Locknut. Make sure that the screw is not to tight and that the Thigh Cover can be rotated about the screw.
+
 ![13ThighCover](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/13ThighCover.PNG)
 
+Push on the bottom of the Knee in the direction and location of the yellow arrow in the image below. Rotated the top of the Thigh Cover into place. If the faces on the Thigh Cover don't sit flush against the faces of the Thigh, you made need to push more on the bottom of the foot. The assembly with flex a little bit, but do not push too hard as you may risk damaging the parts. Once the Thigh Cover is in place, fasten the assembly together using a 4-40 x 1.25" countersunk screw.
+
 ![14ThichCoverScrew](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/14ThichCoverScrew.PNG)
+
+Attach the foot to the assembly. Slide the Foot into place and tighten it to the bottom holes od the Knee and Knee Cover using a 4-40 x .50" countersunk screw and a 4-40 Locknut.
 
 ![15Foot](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/15Foot.PNG)
