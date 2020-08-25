@@ -69,13 +69,18 @@ After completing the above steps, the assembly should look as follows with the m
 
 ![9BaseAssembly](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/9BaseAssembly.PNG)
 
+To finish the Main Body Assembly, plug the 4 remaining unconnected 3-wire cables into the 4 ports on the OpenCM 9.04 highlighted below
+![10opencm904Connections](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/1%20Main%20Body%20Assembly/10opencm904Connections.PNG)
+
 ### Leg Assembly
+
+Plug two batteries into the OpenCM9.04. Open the [SetZeroPosition](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Code/SetZeroPosition.ino) code in the OpenCM IDE. Replace the numbers in the red box below to the numbers of the motors that you are currently assembling a leg on. The leg assembly shown in the instructions below correspond to motors 1 and 2. Upload the code to the OpenCM9.04. 
+![1_2MotorZero](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/1_2MotorZero.PNG)
+
+![]()
 
 Remove the screws from the XL-320 that hold the servo horn in place (circled below)
 ![1RemoveScrew](https://user-images.githubusercontent.com/69541527/90920506-6e29af00-e3b6-11ea-943d-a18cfbcd0f94.PNG)
-
-
-![1_2MotorZero](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/1_2MotorZero.PNG)
 
 ![2MotorHubNuts](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/2MotorHubNuts.PNG)
 
