@@ -12,7 +12,7 @@ While the parts are printing, follow the steps to download the [OpenCM IDE](http
 
 2: Main Body Assembly
 
-3: Leg Assembly
+#### 3: Leg Assembly
 Follow the Steps in the [Leg Assembly File](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/3%20Leg%20Assembly.md) to attach and assemble all of the legs on MiniQuad.
 
 
