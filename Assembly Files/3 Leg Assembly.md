@@ -40,5 +40,6 @@ Attach the 5.6" Timing Belt and Thigh to the Assembly. Wrap one end of the timin
 
 ![8ThighAndTimingBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/8ThighAndTimingBelt.PNG)
 
+Attach the Knee Pulley to the assembly by sliding it into the hole on the front of the Thigh. Align the registration tabs on the Knee Pulley to the slots on the Motor Hub Connector. Snap the Knee Pulley into place. The images on the right below depict the assembly with the Knee Pulley fully inserted into the leg assembly. The face of the teeth on the Knee Pulley should be sitting up agains the face of the thigh as seen in the bottom right image. 
 
 ![9KneePulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/9KneePulley.PNG)
