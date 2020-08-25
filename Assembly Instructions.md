@@ -72,6 +72,13 @@ After completing the above steps, the assembly should look as follows with the m
 ### Leg Assembly
 
 Remove the screws from the XL-320 that hold the servo horn in place (circled below)
-![RemoveScrew](https://user-images.githubusercontent.com/69541527/90920506-6e29af00-e3b6-11ea-943d-a18cfbcd0f94.PNG)
+![1RemoveScrew](https://user-images.githubusercontent.com/69541527/90920506-6e29af00-e3b6-11ea-943d-a18cfbcd0f94.PNG)
 
 
+![1_2MotorZero](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/1_2MotorZero.PNG)
+
+![2MotorHubNuts](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/2MotorHubNuts.PNG)
+
+![3AttachMotorHub](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/3AttachMotorHub.PNG)
+
+![4MotorHubConnectorLockNut](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/4MotorHubConnectorLockNut.PNG)
