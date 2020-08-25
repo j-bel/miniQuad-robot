@@ -90,7 +90,7 @@ Place 4-40 nuts (x2) into 2 of slots on the back of the Motor Hub. Any set of sl
 
 ![2MotorHubNuts](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/2MotorHubNuts.PNG)
 
-Attach the Motor Hub to the horn of the XL-320. First press the Motor Hub into place. The registration tabs on the Motor Hub should align with the holes on the horn of the XL-320. Snap the tabs into place and tighten the hub onto the motor using an M2.5 x 16mm screw and an M2.5 Washer.
+Attach the Motor Hub to the horn of the XL-320. First press the Motor Hub into place. The registration tabs on the Motor Hub should align with the holes on the horn of the XL-320. Snap the tabs into place and fasten the hub onto the motor using an M2.5 x 16mm screw and an M2.5 Washer.
 
 ![3AttachMotorHub](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/3AttachMotorHub.PNG)
 
@@ -102,11 +102,15 @@ Attach the Motor Hub Connector to the Motor Hub using 4-40 x .375" countersunk s
 
 ![5MotorHubConnScrews](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/5MotorHubConnScrews.PNG)
 
-Attache the pulley brace to the assembly by sliding the smaller hole of the brace onto the Motor Hub Connector.
+Attach the Pulley Brace to the assembly by sliding the smaller hole of the brace onto the Motor Hub Connector.
 
 ![6PulleyBrace](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/6PulleyBrace.PNG)
 
+Attach the Thigh Pulley to the assembly following the same steps as the Motor Hub. Align the registration tabs on the Thigh Pulley with the holes on motor 2 and snap it into place. Fasten the pulley to the motor using an M2.5 x 16mm screw and an M2.5 Washer.
+
 ![7ThighPulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/7ThighPulley.PNG)
+
+Attach the 5.6" Timing Belt and Thigh to the Assembly. Wrap one end of the timing belt around the Thigh. Hold the thigh vertical to the assembly. Wrap the belt around the Thigh Pulley while sliding the thigh onto the Motor Hub Connector. Keep the thigh as vertical as possible during installation. Some deviation will be necessary to engage the timing belt. This will be corrected later during Motor Calibration.
 
 ![8ThighAndTimingBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/8ThighAndTimingBelt.PNG)
 
