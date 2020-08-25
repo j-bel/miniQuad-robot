@@ -98,12 +98,15 @@ Place a 4-40 Locknut into the slot on the back of the Motor Hub Connector. Make 
 
 ![4MotorHubConnectorLockNut](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/4MotorHubConnectorLockNut.PNG)
 
-Attach the Motor Hub Connector to the Motor Hub using 4-40 x .375" (x2). 
+Attach the Motor Hub Connector to the Motor Hub using 4-40 x .375" countersunk screws (x2). 
+
 ![5MotorHubConnScrews](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/5MotorHubConnScrews.PNG)
+
+Attache the pulley brace to the assembly by sliding the smaller hole of the brace onto the Motor Hub Connector.
 
 ![6PulleyBrace](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/6PulleyBrace.PNG)
 
-![7SetZeroCode](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/7SetZeroCode.PNG)
+![7ThighPulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/7ThighPulley.PNG)
 
 ![8ThighAndTimingBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/8ThighAndTimingBelt.PNG)
 
