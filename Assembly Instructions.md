@@ -82,3 +82,13 @@ Remove the screws from the XL-320 that hold the servo horn in place (circled bel
 ![3AttachMotorHub](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/3AttachMotorHub.PNG)
 
 ![4MotorHubConnectorLockNut](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/4MotorHubConnectorLockNut.PNG)
+
+![5MotorHubConnScrews](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/5MotorHubConnScrews.PNG)
+
+![6PulleyBrace](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/6PulleyBrace.PNG)
+
+![7SetZeroCode](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/7SetZeroCode.PNG)
+
+![8ThighAndTimingBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/8ThighAndTimingBelt.PNG)
+
+![9KneePulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/9KneePulley.PNG)
