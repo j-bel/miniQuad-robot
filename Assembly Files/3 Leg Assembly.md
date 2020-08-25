@@ -40,4 +40,5 @@ Attach the 5.6" Timing Belt and Thigh to the Assembly. Wrap one end of the timin
 
 ![8ThighAndTimingBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/8ThighAndTimingBelt.PNG)
 
+
 ![9KneePulley](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/9KneePulley.PNG)
