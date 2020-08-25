@@ -8,11 +8,13 @@ Begin by gathering all of the necessary material to build MiniQuad found in the 
 
 While the parts are printing, follow the steps to download the [OpenCM IDE](https://emanual.robotis.com/docs/en/software/opencm_ide/getting_started/) from robotis. The OpenCM IDE will be necessary to run the initial set up code as well as program MiniQuad to move. 
 
-1: Assign Motor ID's
+#### Assign Motor ID's
+Follow the Steps in the [Assign Motor ID File](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/1%20Assign%20Motor%20ID's.md) to assign each of the 8 motor's with an individual ID that will be later used to program MiniQuad.
 
-2: Main Body Assembly
+#### Main Body Assembly
+Follow the Steps in the [Main Body Assembly File](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/2%20Main%20Body%20Assembly.md) to assemble the body of MiniQuad and attach all of the motors in the correct locations.
 
-#### 3: Leg Assembly
+#### Leg Assembly
 Follow the Steps in the [Leg Assembly File](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/3%20Leg%20Assembly.md) to attach and assemble all of the legs on MiniQuad.
 
 
