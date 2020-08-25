@@ -50,7 +50,7 @@ Attach the Knee Cover to the Knee using a 4-40 x .5" countersunk screw and a 4-4
 
 Rotate the Knee Cover to one side enough to allow the 4.4" Timing Belt onto the teeth of the Knee.
 
-![11KneeBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/11KneeBelt.PNG
+![11KneeBelt](https://github.com/MiniQuad/robot/blob/master/Assembly%20Files/Assembly%20Images/2%20Leg%20Assembly/11KneeBelt.PNG)
 
 Rotate the Knee Cover Back into place. Place the timing belt around the Knee Pulley at the top of the leg assembly. Stretch the Knee and Knee Cover downwards and put a 4-40 x .75" countersunk screw into the back of the Knee. If the fit is too tight, you may need to twist the screw into place. Make sure the back face of the knee is pressing up against the face of the Thigh.
 
