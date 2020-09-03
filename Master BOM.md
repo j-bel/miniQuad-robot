@@ -18,18 +18,24 @@
 <br/>
 
 
-| <h3>Fasteners</h3> | x | y | z |
-| ----------------- | :-----------------------: |------------------------- | -------------- |
-| 4-40 x 1.25" Countersunk | 4 | | |
-| 4-40 x .75" Countersunk | 12 | | |
-| 4-40 x .50" Coutnersunk | 16 | | |
-| 4-40 x .375" Coutnersunk | 8 | | |
-| 4-40 Locknut | 24 | | |
-| 4-40 Hex Nut | 16 | | |
-| M2.5 x 16mm | 8 | | |
-| M2.5 Washer | 8 | | |
-| <h3>3D Printed Parts</h3> | | | |
+<h3>Fasteners</h3>
+
+| Part | Qty. |
+| ----------------- | :-----------------------: |
+| 4-40 x 1.25" Countersunk | 4 |
+| 4-40 x .75" Countersunk | 12 |
+| 4-40 x .50" Coutnersunk | 16 |
+| 4-40 x .375" Coutnersunk | 8 |
+| 4-40 Locknut | 24 |
+| 4-40 Hex Nut | 16 |
+| M2.5 x 16mm | 8 |
+| M2.5 Washer | 8 |
+<br/>
+
+<h3>3D Printed Parts</h3>
+
 | Part | Filament per (g) | Qty | Filament Total |
+| ----------------- | :-----------------------: |------------------------- | -------------- |
 | Base | 33.20 | 1 | 33.20 |
 | Electronics Mount | 71.33 | 1 | 71.33 |
 | Foot | 4 | | |
