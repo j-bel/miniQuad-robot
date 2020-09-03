@@ -38,7 +38,7 @@
 
 <h3>3D Printed Parts</h3>
 
-| Part | Filament per (g) | Qty | Filament Total |
+| Part | Filament per (g) | Qty | Filament Total (g)|
 | ----------------- | :-----------------------: |------------------------- | -------------- |
 | Base | 33.20 | 1 | 33.20 |
 | Electronics Mount | 71.33 | 1 | 71.33 |
