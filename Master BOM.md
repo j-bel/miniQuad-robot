@@ -17,6 +17,7 @@
 | eSUN PLA PRO (PLA+) 3D Printer Filament, Blue | 1 | $23.99 | [Amazon Filament](https://www.amazon.com/eSUN-1-75mm-Printer-Filament-2-2lbs/dp/B01EKEMNRO/ref=sr_1_1?dchild=1&keywords=esun+blue&qid=1599165167&s=industrial&sr=1-1) |
 | HVAZI #4-40 UNC Machine Screws Nuts Assortment Kit | 1 | $12.99 | [Amazon 4-40 Screw Kit](https://www.amazon.com/HVAZI-Stainless-Phillips-Machine-Assortment/dp/B07GV31SDS/ref=sr_1_3?c=ts&dchild=1&keywords=Machine+Screws&qid=1599170742&refinements=p_n_feature_fourteen_browse-bin%3A11433955011&s=industrial&sr=1-3&ts_id=16403531) |
 | #4-40 Stainless Hex Lock Nut (100 Pack) | 1 | $6.98 | https://www.amazon.com/gp/product/B07HYNZXGV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 |
+|<h4>Total Cost</h4>| | <h4>$305.75</h4> | |
 
 <br/>
 <br/>
